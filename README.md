@@ -1,6 +1,5 @@
 # UNO
 
-# UNO
 ## Overview
 This project is a digital version of the popular card game UNO, implemented in Java. The game allows users to log in, create new accounts, and play against multiple bot opponents. The game provides a main menu with options to view game rules, create a new game, and log out. In-game, users can see their hand, the card on the ground, and the number of cards each bot has left. The game ends when any player, human or bot, has one card left.
 
